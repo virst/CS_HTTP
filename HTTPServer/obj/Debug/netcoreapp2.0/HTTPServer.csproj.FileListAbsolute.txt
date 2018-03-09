@@ -1,0 +1,12 @@
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\bin\Debug\netcoreapp2.0\www\nsu.htm
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\bin\Debug\netcoreapp2.0\HTTPServer.deps.json
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\bin\Debug\netcoreapp2.0\HTTPServer.runtimeconfig.json
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\bin\Debug\netcoreapp2.0\HTTPServer.runtimeconfig.dev.json
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\bin\Debug\netcoreapp2.0\HTTPServer.dll
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\bin\Debug\netcoreapp2.0\HTTPServer.pdb
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\obj\Debug\netcoreapp2.0\HTTPServer.csprojResolveAssemblyReference.cache
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\obj\Debug\netcoreapp2.0\HTTPServer.csproj.CoreCompileInputs.cache
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\obj\Debug\netcoreapp2.0\HTTPServer.AssemblyInfoInputs.cache
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\obj\Debug\netcoreapp2.0\HTTPServer.AssemblyInfo.cs
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\obj\Debug\netcoreapp2.0\HTTPServer.dll
+C:\Users\MVi\Source\Repos\CS_HTTP\HTTPServer\obj\Debug\netcoreapp2.0\HTTPServer.pdb
